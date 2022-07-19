@@ -1,0 +1,101 @@
+.list{
+
+    display: flex;
+    position: relative;
+    left: 10%;
+    bottom: 55px;
+    font-size: 25px;
+  
+   
+   
+    
+
+}
+
+
+.list-item{
+
+position: relative;
+display: flex;
+padding-right: 75px;
+
+
+}
+
+
+.navbar-container img{
+
+
+ height: 45px;
+ width: 150px;
+    
+      
+
+
+}
+
+
+.button-group .nav-button{
+
+    background-color: #6342f5;
+    font-size: 30px;
+    position: relative;
+    left: 85%;
+    color: white;
+  bottom:  120px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: none;
+  border-radius: 15px;
+
+}
+
+
+.pic{
+
+   position: absolute;
+    left: 62%;
+    bottom: 10%;
+
+    height: 350px;
+
+
+
+}
+
+
+.heading-text{
+
+    font-size: 45px;
+    color: rgb(0, 55, 128);
+    padding-left: 15px;
+    
+    
+}
+
+.heading-text span{
+
+    color: #6342f5;;
+}
+
+.banner-container button {
+    background-color: #6342f5;
+    font-size: 30px;
+    color: white;
+
+    position: absolute;
+   top: 70%;
+   left: 2%;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border: none;
+   border-radius: 15px;
+  
+  
+
+
+}
